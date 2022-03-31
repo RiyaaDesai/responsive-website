@@ -1,2 +1,2 @@
 # responsive-website
-I have built this Responsive Website for a coffee shop by using Bootstrap, HTML, CSS and JavaScript. 
+I have built this Responsive Website for a coffee shop by using Bootstrap, HTML, CSS and JavaScript. File are in the master branch.
